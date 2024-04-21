@@ -1,0 +1,26 @@
+.nav{
+    display: flex;
+    /* justify-content: space-between; */
+    align-items: center;
+}
+#logo{
+    height: 30px;
+
+}
+
+.left-tab{
+  margin-left: 20px;
+  
+}
+.left{
+    align-items: center;
+    margin-right: auto; 
+}
+a{
+    text-decoration: none ;
+}
+.right{
+   
+    float: right;
+    ;
+}
